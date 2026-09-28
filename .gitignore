@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+.DS_Store
+_renders/
+sample_estimate_8632.pdf
